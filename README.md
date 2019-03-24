@@ -1,7 +1,7 @@
 Program to play tic tac toe in python. Can be run directly or with an IDLE.
 
 To make a player, use command:
-<player name> = player(<player's symbol, such as 'X' or 'O'>)
+[player name] = player(<player's symbol, such as 'X' or 'O'>)
 
 To play, use command:
 <player name>.play(<horizontal line>,<verical line>)

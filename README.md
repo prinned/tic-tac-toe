@@ -3,6 +3,8 @@ Program to play tic tac toe in python.
 Can be run directly or with an IDLE.
 
 (Text in square brackets([]) represent variables)
+
+
 To make a player, use command:
 [player name] = player([player's symbol, such as 'X' or 'O'])
 
